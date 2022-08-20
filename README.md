@@ -1,6 +1,5 @@
 # Duckyy.github.io
-### Hello, i am GhostyDuckyy.
+### Hello, i am GhostyDuckyy / `Ghost-Ducky#7698`.
 ### About me [lego game](https://www.roblox.com/) exploiter/scripter.
-## Contact me
-`Ghost-Ducky#7698` | **Discord**
+
 ## Script i made

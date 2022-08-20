@@ -1,5 +1,5 @@
 ## About me
-### Hello, i am GhostyDuckyy / `Ghost-Ducky#7698`, [RBLX](https://www.roblox.com/) exploiter/scripter.
+#### Hello, i am [GhostyDuckyy](https://github.com/GhostDuckyy) / `Ghost-Ducky#7698` | [RBLX](https://www.roblox.com/) exploiter/scripter.
 
 ## RBLX Repository
 #### [Bread](https://github.com/GhostDuckyy/Bread) / https://discord.gg/TFUeFEESVv

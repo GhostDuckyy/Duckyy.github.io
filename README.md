@@ -1,4 +1,3 @@
-# Duckyy.github.io
 ## About me
 ### Hello, i am GhostyDuckyy / `Ghost-Ducky#7698`, [RBLX](https://www.roblox.com/) exploiter/scripter.
 

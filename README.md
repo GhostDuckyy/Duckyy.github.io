@@ -13,4 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/Bread/mai
 #### [Bloodball Ui Librarys](https://github.com/bloodball/UI-Librarys) | A lot of ui librarys source & docs/example
 
 ## RBLX exploit
-#### [www.whatexploitsare.online](https://www.whatexploitsare.online/) | check all exploit is online
+#### [www.whatexploitsare.online](https://www.whatexploitsare.online/) | Check all exploit real time status

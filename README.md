@@ -8,7 +8,7 @@
 --// https://discord.gg/TFUeFEESVv
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/Bread/main/Loader/source.lua"))()
 ```
-#### [Fixed script](https://github.com/GhostDuckyy/GhostDuckyy/tree/main/Fixed) | Save my fixed script
+#### [Taurus](https://github.com/GhostDuckyy/Taurus) | **New** script-hub, named by my constellation.
 #### [Ui Librarys](https://github.com/GhostDuckyy/Ui-Librarys) | A repo to save Ui Librarys source & docs/example
 #### [Bloodball Ui Librarys](https://github.com/bloodball/UI-Librarys) | A lot of ui librarys source & docs/example
 
